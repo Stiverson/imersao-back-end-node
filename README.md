@@ -1,6 +1,3 @@
-Obrigado pelo esclarecimento! Aqui está uma versão revisada do README.md para refletir que o evento se estenderá por toda a semana e que hoje foi apenas a primeira aula:
-
----
 
 # Imersão Dev Back-end - Alura 🚀
 
